@@ -83,7 +83,7 @@
       "id": "blocks",
       "components": [
         {
-          "title": "Cards",
+          "title": "Cards!!!",
           "id": "cards",
           "plugins": {
             "xwalk": {
@@ -98,7 +98,7 @@
           }
         },
         {
-          "title": "Card",
+          "title": "Card!!!",
           "id": "card",
           "plugins": {
             "xwalk": {
@@ -143,7 +143,7 @@
           }
         },
         {
-          "title": "Hero",
+          "title": "Hero!!!",
           "id": "hero",
           "plugins": {
             "xwalk": {
@@ -152,6 +152,24 @@
                 "template": {
                   "name": "Hero",
                   "model": "hero"
+                }
+              }
+            }
+          }
+        },
+        {
+          "title": "Teaser",
+          "id": "teaser",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/block/v1/block",
+                "template": {
+                  "name": "Teaser",
+                  "model": "teaser",
+                  "textContent_text": "<h2>Enter a title</h2><p>...and body text here!</p>",
+                  "textContent_cta": "/",
+                  "textContent_ctaText": "Click me!"
                 }
               }
             }
