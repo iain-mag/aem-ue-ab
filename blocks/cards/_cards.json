@@ -1,7 +1,7 @@
 {
   "definitions": [
     {
-      "title": "Cards",
+      "title": "Cards!!!",
       "id": "cards",
       "plugins": {
         "xwalk": {
@@ -16,7 +16,7 @@
       }
     },
     {
-      "title": "Card",
+      "title": "Card!!!",
       "id": "card",
       "plugins": {
         "xwalk": {
